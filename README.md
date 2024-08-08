@@ -38,8 +38,8 @@ Team Member 1:
 
 
 Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Rishikesh Gokhale
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-SGc1RqUvLvpgqL4
 
 
 ### Project Solution:
