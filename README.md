@@ -49,5 +49,5 @@ All necessary code files and any additional information required to judge your p
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
-See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
+See project presentation guidelines [here](https://docs.google.com/presentation/d/1arsRv3Mc7sKc4mwhHtmWhxhM925rr-4Vg3AZJD1exDU/edit#slide=id.g27fd143bfba_0_226)
 
