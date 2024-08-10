@@ -48,5 +48,5 @@ All necessary code files and any additional information required to judge your p
 
 ### Project Presentation Deck:
 
-[link to presentation](https://docs.google.com/presentation/d/1arsRv3Mc7sKc4mwhHtmWhxhM925rr-4Vg3AZJD1exDU/edit#slide=id.g27fd143bfba_0_226)
+[link to presentation](https://docs.google.com/presentation/d/1arsRv3Mc7sKc4mwhHtmWhxhM925rr-4Vg3AZJD1exDU/edit#slide=id.g27fd143bfba_0_2)
 
